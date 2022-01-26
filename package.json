@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/chadboyer.plainjs-kyuo0lwn-fork-kyuo65zc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DRzjGi5eWxOZ6frhL4pj --open"
+  }
+}
